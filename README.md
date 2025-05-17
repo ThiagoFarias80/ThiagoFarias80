@@ -6,7 +6,7 @@
 - 📫 How to reach me: antonio.thiagorf@hotmail.com
 - 😄 Pronouns: He/him 
 
-## Technologies: 
+## Technologies and Tools: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Cpp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Thiago-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
@@ -20,6 +20,7 @@
 ## GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoFarias80&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFarias80&layout=compact&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoFarias80&theme=tokyonight" alt="ThiagoFarias80" /></p>
 
 
 
