@@ -2,7 +2,7 @@
 
 ## About Me:
 - 🔭 I’m currently working with Hardware and Game Development
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently learning Game Development and development in general
 - 📫 How to reach me: antonio.thiagorf@hotmail.com
 - 😄 Pronouns: He/him 
 
